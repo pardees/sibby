@@ -1,3 +1,3 @@
-# Boston Ruby Worskhop: first Ruby on Rails application
+# Boston Ruby Workshop: first Ruby on Rails application
 
-This is the first application for Pardees.
+Ths is the first application for Pardees!
