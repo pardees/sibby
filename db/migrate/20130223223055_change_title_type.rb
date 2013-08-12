@@ -1,4 +1,4 @@
-class ChangeTitleType < ActiveRecord::Migration
+ class ChangeTitleType < ActiveRecord::Migration
   def up
     change_column :topics, :title, :text
   end
